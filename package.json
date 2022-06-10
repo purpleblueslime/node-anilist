@@ -1,0 +1,29 @@
+{
+  "name": "node-anilist",
+  "version": "1.0.0",
+  "description": "A lightweight and fast node wrapper to interact with the anilist.co graphql API.",
+  "keywords": [
+    "anilist",
+    "anilist-api",
+    "api-wrapper"
+  ],
+  "main": "src/anilist.js",
+  "type": "commonjs",
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purpleblueslime/node-anilist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/purpleblueslime/node-anilist/issues"
+  },
+  "author": "SLIME",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=14.17.6"
+  },
+  "engineStrict": false
+}
